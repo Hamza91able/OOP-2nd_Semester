@@ -1,0 +1,12 @@
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Simple Calculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

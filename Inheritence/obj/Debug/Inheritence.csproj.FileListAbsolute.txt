@@ -1,0 +1,6 @@
+F:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais & Miss Raisa Ansari)\Inheritence\bin\Debug\Inheritence.exe.config
+F:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais & Miss Raisa Ansari)\Inheritence\bin\Debug\Inheritence.exe
+F:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais & Miss Raisa Ansari)\Inheritence\bin\Debug\Inheritence.pdb
+F:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais & Miss Raisa Ansari)\Inheritence\obj\Debug\Inheritence.csprojResolveAssemblyReference.cache
+F:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais & Miss Raisa Ansari)\Inheritence\obj\Debug\Inheritence.exe
+F:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais & Miss Raisa Ansari)\Inheritence\obj\Debug\Inheritence.pdb

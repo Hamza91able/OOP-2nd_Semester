@@ -1,0 +1,12 @@
+c:\users\hamza\documents\visual studio 2017\Projects\Percentage and Grade\Percentage and Grade\bin\Debug\Percentage and Grade.exe.config
+c:\users\hamza\documents\visual studio 2017\Projects\Percentage and Grade\Percentage and Grade\bin\Debug\Percentage and Grade.exe
+c:\users\hamza\documents\visual studio 2017\Projects\Percentage and Grade\Percentage and Grade\bin\Debug\Percentage and Grade.pdb
+c:\users\hamza\documents\visual studio 2017\Projects\Percentage and Grade\Percentage and Grade\obj\Debug\Percentage and Grade.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2017\Projects\Percentage and Grade\Percentage and Grade\obj\Debug\Percentage and Grade.exe
+c:\users\hamza\documents\visual studio 2017\Projects\Percentage and Grade\Percentage and Grade\obj\Debug\Percentage and Grade.pdb
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Grade Calculator\bin\Debug\Percentage and Grade.exe.config
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Grade Calculator\obj\Debug\Percentage and Grade.exe
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Grade Calculator\obj\Debug\Percentage and Grade.pdb
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Grade Calculator\obj\Debug\Percentage and Grade.csprojResolveAssemblyReference.cache
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Grade Calculator\bin\Debug\Percentage and Grade.exe
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Grade Calculator\bin\Debug\Percentage and Grade.pdb

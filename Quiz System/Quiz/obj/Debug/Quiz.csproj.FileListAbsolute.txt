@@ -1,0 +1,9 @@
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Quiz\Quiz\bin\Debug\Quiz.exe.config
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Quiz\Quiz\bin\Debug\Quiz.exe
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Quiz\Quiz\bin\Debug\Quiz.pdb
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais)\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais & Miss Raisa Ansari)\Quiz\Quiz\bin\Debug\Quiz.exe.config
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais & Miss Raisa Ansari)\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\Assingments and Projects (UBIT)\2nd Semester\Object Oriented Programming(Miss. Shahista Rais & Miss Raisa Ansari)\Quiz\Quiz\obj\Debug\Quiz.pdb
